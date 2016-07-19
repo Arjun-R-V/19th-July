@@ -1,0 +1,14 @@
+a {
+  color :red;
+  text-decoration: none;
+  font-size: 50px;
+}
+div
+{
+  margin: auto;
+  color:blue;
+  font-size: 40px;
+  background-color: yellow;
+  width: 400px;
+  height: 600px;
+}
