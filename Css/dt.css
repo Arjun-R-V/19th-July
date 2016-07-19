@@ -1,0 +1,13 @@
+li{
+  display: inline;
+  padding-right: 10px;
+}
+ul a{
+  text-decoration: none;
+  color: red;
+}
+ul a:hover
+{
+  text-decoration: underline;
+  color: purple;
+}
